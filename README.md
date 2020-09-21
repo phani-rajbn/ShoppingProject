@@ -1,4 +1,4 @@
 # ShoppingProject
-hr
-Demo on Shopping Application
+<hr>
+Demo on Shopping Application<br>
 This is a tutorial on Shopping App
