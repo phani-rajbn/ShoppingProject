@@ -1,0 +1,13 @@
+h1{
+	color: blue;
+	text-align: center;
+	font-size: 38pt;
+	padding: 5px;
+	margin: 5px;
+}
+
+.footer{
+	position:  absolute;
+	bottom: 10px;
+	width: 100%;
+}
